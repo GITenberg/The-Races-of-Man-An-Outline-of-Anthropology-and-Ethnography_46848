@@ -1,10 +1,16 @@
 _repo: The-Races-of-Man-An-Outline-of-Anthropology-and-Ethnography_46848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46848-h/images/cover.jpg
 creator:
   author:
     agent_name: Deniker, Joseph
     gutenberg_agent_id: '43985'
     url: http://www.gutenberg.org/2009/agents/43985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46848#The-Races-of-Man-An-Outline-of-Anthropology-and-Ethnography
 gutenberg_issued: '2014-09-12'
 gutenberg_type: Text
 identifiers:
